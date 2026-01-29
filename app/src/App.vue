@@ -58,7 +58,7 @@
             mdi-information
           </v-icon>
 
-          <span
+          <div
             class="colour-dk-text dark-gray-links font-size-14 pl-2"
             v-html="bannerText"
           />
